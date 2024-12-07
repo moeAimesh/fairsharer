@@ -1,4 +1,3 @@
-import pytest
 from fairsharer_function import fair_sharer
 
 
